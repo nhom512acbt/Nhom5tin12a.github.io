@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Nhóm 5 – Lớp 12 Anh</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="container">
+    <h1>Nhóm 5 – Lớp 12 Anh</h1>
+
+    <p class="lead">Trang web tổng hợp các bài tập và bài thuyết trình của nhóm</p>
+
+    <section class="welcome">
+      <h2>Xin chào!</h2>
+      <p>Chào mừng bạn đến với trang web chính thức của Nhóm 5 – 12 Anh. Đây là nơi tổng hợp các bài tập, bài thuyết trình và sản phẩm học tập của nhóm.</p>
+    </section>
+
+    <section class="members">
+      <h2>Thành viên nhóm</h2>
+      <ul>
+        <li>Hải Đăng</li>
+        <li>Quang Thảo</li>
+        <li>Kim Thanh</li>
+        <li>Ngọc Diệp</li>
+        <li>Huy Thuận</li>
+      </ul>
+    </section>
+
+    <section class="assignments">
+      <h2>Danh sách bài tập</h2>
+
+      <article class="task">
+        <h3>Bài tập 1: (Nhập tiêu đề bài tập)</h3>
+        <p>Mô tả: (Nhập mô tả bài tập)</p>
+        <p><a href="#" class="btn">Xem bài làm</a></p>
+      </article>
+
+      <article class="task">
+        <h3>Bài tập 2: (Nhập tiêu đề bài tập)</h3>
+        <p>Mô tả: (Nhập mô tả bài tập)</p>
+        <p><a href="#" class="btn">Xem bài làm</a></p>
+      </article>
+    </section>
+
+    <section class="presentation">
+      <h2>Bài thuyết trình</h2>
+      <article>
+        <h3>Thuyết trình: (Tên chủ đề)</h3>
+        <p>Mô tả: (Thông tin ngắn về bài thuyết trình)</p>
+        <p><a href="#" class="btn">Xem bài thuyết trình</a></p>
+      </article>
+    </section>
+
+    <footer class="site-footer">
+      <p>© 2025 - Nhóm 5 | Lớp 12 Anh</p>
+    </footer>
+  </main>
+</body>
+</html>
